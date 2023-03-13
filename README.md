@@ -1,1 +1,1 @@
-Update Colab notebook for YOLOv8.1 (#8660)
+ultralytics 8.0.224 Counting and Heatmaps updates (#6855)
