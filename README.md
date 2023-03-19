@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Download Manager - Extensive enhancements to the downloading functionality of Safari, check the preference page for more detailed info
