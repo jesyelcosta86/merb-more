@@ -1,1 +1,1 @@
-Fix Multi-GPU resume bug (#7328)
+ultralytics 8.1.0 YOLOv8 Oriented Bounding Box (OBB) release (#7463)
