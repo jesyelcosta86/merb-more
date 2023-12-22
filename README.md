@@ -1,1 +1,1 @@
-Fix RTDETR generate anchor grid out of boundary (#7247)
+Fix an issue with flatbuffer version for Raspberry Pi (#8311)
