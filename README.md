@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Fix Multi-GPU resume bug (#7328)
